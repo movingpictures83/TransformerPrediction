@@ -1,0 +1,5 @@
+datapath	500_LD2011_2012.txt
+steps	1
+modelconfig	model_config.json
+metainformation	meta_information.json
+predictionname	elect01
